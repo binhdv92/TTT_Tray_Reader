@@ -1,0 +1,1 @@
+pyuic5 -x designer\main_layout.ui -o layout\main_layout.py
